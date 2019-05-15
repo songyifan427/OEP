@@ -1,5 +1,5 @@
 北大图书馆”Github传送门：
-https://lib-pku.github.io/浙大项目传送门：https://github.com/QSCTech
+https://lib-pku.github.io/
 
 清华大学共享计算机系课程资源：
 https://github.com/PKUanonym
